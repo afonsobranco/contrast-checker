@@ -35,33 +35,6 @@ A professional-grade color contrast analyzer supporting WCAG 2.1 and APCA (WCAG 
 
 ---
 
-## Getting Started
-
-```bash
-npm install
-npm run dev
-```
-
-Open [localhost:5173/contrast-checker/](http://localhost:5173/contrast-checker/).
-
-```bash
-npm run build    # production build → dist/
-npm run preview  # preview the build locally
-```
-
----
-
-## Deployment
-
-Pushes to `main` trigger the GitHub Actions workflow in `.github/workflows/deploy.yml`, which builds with Vite and deploys to GitHub Pages automatically.
-
-To set up on a new fork:
-1. Go to **Settings → Pages** and set Source to **GitHub Actions**
-2. Update `base` in `vite.config.js` to match your repo name
-3. Push to `main`
-
----
-
 ## Standards Reference
 
 | Standard | Criterion | Threshold |
