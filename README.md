@@ -9,7 +9,7 @@ A professional-grade color contrast analyzer supporting WCAG 2.1 and APCA (WCAG 
 ## Features
 
 ### Core
-- **Dual scoring** — WCAG 2.1 (AA / AAA) and APCA Lc side by side
+- **Dual scoring** — WCAG 2.1 (AA / AAA) and APCA Lc side by side 
 - **Non-text contrast** — WCAG 1.4.11 (3:1) and APCA Lc 30 checks for UI components and icons
 - **Gradient and image backgrounds** — paste any CSS gradient or image URL; the app samples the effective color for accurate math while rendering the real visual in the preview
 - **Shareable URLs** — color pair is encoded in the hash, so every link is a permalink
